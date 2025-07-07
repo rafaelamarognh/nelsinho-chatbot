@@ -20,26 +20,32 @@ function PureSuggestedActions({
 }: SuggestedActionsProps) {
   const suggestedActions = [
     {
-      title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
+      title: 'Por que a Nelson Heusi',
+      label: 'é referência há 96 anos no Brasil?',
+      action: 'Por que a Nelson Heusi é referência como melhor despachante do Brasil há 96 anos?',
     },
     {
-      title: 'Write code to',
-      label: `demonstrate djikstra's algorithm`,
-      action: `Write code to demonstrate djikstra's algorithm`,
+      title: 'Conte-me sobre a história',
+      label: 'da Nelson Heusi',
+      action: 'Conte-me sobre a história da Nelson Heusi desde a sua fundação.',
     },
     {
-      title: 'Help me write an essay',
-      label: `about silicon valley`,
-      action: `Help me write an essay about silicon valley`,
+      title: 'Quais serviços',
+      label: 'a Nelson Heusi oferece?',
+      action: 'Quais serviços de despacho aduaneiro e consultoria a Nelson Heusi oferece?',
     },
     {
-      title: 'What is the weather',
-      label: 'in San Francisco?',
-      action: 'What is the weather in San Francisco?',
+      title: 'Como a Nelson Heusi',
+      label: 'garante conformidade com a legislação?',
+      action: 'Como a Nelson Heusi garante 100% de conformidade com a legislação aduaneira brasileira?',
+    },
+    {
+      title: 'Quais são os principais',
+      label: 'diferenciais competitivos?',
+      action: 'Quais são os principais diferenciais competitivos da Nelson Heusi no mercado de despachos?',
     },
   ];
+
 
   return (
     <div
